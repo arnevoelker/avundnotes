@@ -1,12 +1,9 @@
 
-![[_ HEADER]]
+[[HEADER]]
 
 ###### About
 # Der Texter, der sich selber abschafft
 
-
-
-![[& Workspace/_ Assets/arne-grey.jpg]]
 
 «Und? Was machst du so?» Das fragen wir alle gelegentlich. Vor allem auf Business-Events, wenn wir fremde Menschen zum ersten Mal treffen. Ich antworte auf diese Frage meist:
 
@@ -122,9 +119,7 @@ Was wir tun, verwenden wir nicht nur für die Kommunikation, die Du mit Deinen K
 
 
 
-
-
-![[_ FOOTER]]
+[[FOOTER]]
 
 
 
